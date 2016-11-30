@@ -19,7 +19,7 @@ mkdir ~/.qgis2/python/plugins
 i skopiować do niego zawartość repozytorium (np. do folderu ~/.qgis2/python/plugins/Straty).
 
 Następnie w ustawieniach programu QGIS należy włączyć wtyczkę:
-![uruchamianie wtyczki](QGISwtyczkaJakUruchomić.png?raw=true)
+![uruchamianie wtyczki](/Obrazki/QGISwtyczkaJakUruchomić.png?raw=true)
 
 ## Ograniczenia
 
