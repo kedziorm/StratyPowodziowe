@@ -16,7 +16,10 @@ Należy utworzyć folder 'plugins' np.
 ```bash
 mkdir ~/.qgis2/python/plugins
 ```
-i skopiować do niego zawartość repozytorium.
+i skopiować do niego zawartość repozytorium (np. do folderu ~/.qgis2/python/plugins/Straty).
+
+Następnie w ustawieniach programu QGIS należy włączyć wtyczkę:
+![uruchamianie wtyczki](QGISwtyczkaJakUruchomić.png?raw=true)
 
 ## Ograniczenia
 
