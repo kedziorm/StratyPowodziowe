@@ -1,0 +1,113 @@
+Typ zabudowy	Województwo	Wartość zł/m2
+zabudowa mieszkaniowa	dolnośląskie	422.24
+zabudowa mieszkaniowa	kujawsko-pomorskie	332.72
+zabudowa mieszkaniowa	lubelskie	164.54
+zabudowa mieszkaniowa	lubuskie	276.30
+zabudowa mieszkaniowa	łódzkie	290.94
+zabudowa mieszkaniowa	małopolskie	364.09
+zabudowa mieszkaniowa	mazowieckie	509.63
+zabudowa mieszkaniowa	opolskie	265.87
+zabudowa mieszkaniowa	podkarpackie	201.25
+zabudowa mieszkaniowa	podlaskie	162.79
+zabudowa mieszkaniowa	pomorskie	399.89
+zabudowa mieszkaniowa	śląskie	559.03
+zabudowa mieszkaniowa	świętokrzyskie	201.10
+zabudowa mieszkaniowa	warmińsko-mazurskie	203.39
+zabudowa mieszkaniowa	wielkopolskie	360.56
+zabudowa mieszkaniowa	zachodniopomorskie	309.83
+tereny przemysłowe	dolnośląskie	473.44
+tereny przemysłowe	kujawsko-pomorskie	461.52
+tereny przemysłowe	lubelskie	508.97
+tereny przemysłowe	lubuskie	639.37
+tereny przemysłowe	łódzkie	829.2
+tereny przemysłowe	małopolskie	606.64
+tereny przemysłowe	mazowieckie	943.83
+tereny przemysłowe	opolskie	474.32
+tereny przemysłowe	podkarpackie	641.34
+tereny przemysłowe	podlaskie	509.85
+tereny przemysłowe	pomorskie	595.82
+tereny przemysłowe	śląskie	549.65
+tereny przemysłowe	świętokrzyskie	537.68
+tereny przemysłowe	warmińsko-mazurskie	504.73
+tereny przemysłowe	wielkopolskie	702.5
+tereny przemysłowe	zachodniopomorskie	326.21
+tereny komunikacyjne	dolnośląskie	436
+tereny komunikacyjne	kujawsko-pomorskie	436
+tereny komunikacyjne	lubelskie	436
+tereny komunikacyjne	lubuskie	436
+tereny komunikacyjne	łódzkie	436
+tereny komunikacyjne	małopolskie	436
+tereny komunikacyjne	mazowieckie	436
+tereny komunikacyjne	opolskie	436
+tereny komunikacyjne	podkarpackie	436
+tereny komunikacyjne	podlaskie	436
+tereny komunikacyjne	pomorskie	436
+tereny komunikacyjne	śląskie	436
+tereny komunikacyjne	świętokrzyskie	436
+tereny komunikacyjne	warmińsko-mazurskie	436
+tereny komunikacyjne	wielkopolskie	436
+tereny komunikacyjne	zachodniopomorskie	436
+lasy	dolnośląskie	80
+lasy	kujawsko-pomorskie	80
+lasy	lubelskie	80
+lasy	lubuskie	80
+lasy	łódzkie	80
+lasy	małopolskie	80
+lasy	mazowieckie	80
+lasy	opolskie	80
+lasy	podkarpackie	80
+lasy	podlaskie	80
+lasy	pomorskie	80
+lasy	śląskie	80
+lasy	świętokrzyskie	80
+lasy	warmińsko-mazurskie	80
+lasy	wielkopolskie	80
+lasy	zachodniopomorskie	80
+tereny rekreacyjno-wypoczynkowe	dolnośląskie	5.1
+tereny rekreacyjno-wypoczynkowe	kujawsko-pomorskie	5.1
+tereny rekreacyjno-wypoczynkowe	lubelskie	5.1
+tereny rekreacyjno-wypoczynkowe	lubuskie	5.1
+tereny rekreacyjno-wypoczynkowe	łódzkie	5.1
+tereny rekreacyjno-wypoczynkowe	małopolskie	5.1
+tereny rekreacyjno-wypoczynkowe	mazowieckie	5.1
+tereny rekreacyjno-wypoczynkowe	opolskie	5.1
+tereny rekreacyjno-wypoczynkowe	podkarpackie	5.1
+tereny rekreacyjno-wypoczynkowe	podlaskie	5.1
+tereny rekreacyjno-wypoczynkowe	pomorskie	5.1
+tereny rekreacyjno-wypoczynkowe	śląskie	5.1
+tereny rekreacyjno-wypoczynkowe	świętokrzyskie	5.1
+tereny rekreacyjno-wypoczynkowe	warmińsko-mazurskie	5.1
+tereny rekreacyjno-wypoczynkowe	wielkopolskie	5.1
+tereny rekreacyjno-wypoczynkowe	zachodniopomorskie	5.1
+grunty orne	dolnośląskie	1428
+grunty orne	kujawsko-pomorskie	1428
+grunty orne	lubelskie	1428
+grunty orne	lubuskie	1428
+grunty orne	łódzkie	1428
+grunty orne	małopolskie	1428
+grunty orne	mazowieckie	1428
+grunty orne	opolskie	1428
+grunty orne	podkarpackie	1428
+grunty orne	podlaskie	1428
+grunty orne	pomorskie	1428
+grunty orne	śląskie	1428
+grunty orne	świętokrzyskie	1428
+grunty orne	warmińsko-mazurskie	1428
+grunty orne	wielkopolskie	1428
+grunty orne	zachodniopomorskie	1428
+użytki zielone	dolnośląskie	674
+użytki zielone	kujawsko-pomorskie	674
+użytki zielone	lubelskie	674
+użytki zielone	lubuskie	674
+użytki zielone	łódzkie	674
+użytki zielone	małopolskie	674
+użytki zielone	mazowieckie	674
+użytki zielone	opolskie	674
+użytki zielone	podkarpackie	674
+użytki zielone	podlaskie	674
+użytki zielone	pomorskie	674
+użytki zielone	śląskie	674
+użytki zielone	świętokrzyskie	674
+użytki zielone	warmińsko-mazurskie	674
+użytki zielone	wielkopolskie	674
+użytki zielone	zachodniopomorskie	674

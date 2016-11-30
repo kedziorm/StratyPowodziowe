@@ -1,0 +1,17 @@
+Typ zabudowy	Głębokość wody Min	Głębokość wody Maks	Wartość funkcji strat
+zabudowa mieszkaniowa	-9999	0.5	20
+zabudowa mieszkaniowa	0.5	2	35
+zabudowa mieszkaniowa	2	4	60
+zabudowa mieszkaniowa	4	9999	95
+tereny przemysłowe	-9999	0.5	20
+tereny przemysłowe	0.5	2	40
+tereny przemysłowe	2	4	60
+tereny przemysłowe	4	9999	80
+tereny komunikacyjne	-9999	0.5	5
+tereny komunikacyjne	0.5	2	10
+tereny komunikacyjne	2	4	10
+tereny komunikacyjne	4	9999	10
+lasy	-9999	9999	100
+tereny rekreacyjno-wypoczynkowe	-9999	9999	100
+grunty orne	-9999	9999	100
+użytki zielone	-9999	9999	100

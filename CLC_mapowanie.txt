@@ -1,0 +1,45 @@
+Wartość	Typ zabudowy
+1	zabudowa mieszkaniowa
+2	zabudowa mieszkaniowa
+3	tereny przemysłowe
+4	tereny przemysłowe
+5	tereny przemysłowe
+6	tereny przemysłowe
+7	tereny przemysłowe
+8	tereny przemysłowe
+9	tereny przemysłowe
+10	użytki zielone
+11	użytki zielone
+12	grunty orne
+13	grunty orne
+14	grunty orne
+15	grunty orne
+16	grunty orne
+17	grunty orne
+18	grunty orne
+19	grunty orne
+20	grunty orne
+21	grunty orne
+22	grunty orne
+23	lasy
+24	lasy
+25	lasy
+26	użytki zielone
+27	użytki zielone
+28	użytki zielone
+29	użytki zielone
+30	użytki zielone
+31	użytki zielone
+32	użytki zielone
+33	użytki zielone
+34	użytki zielone
+35	tereny rekreacyjno-wypoczynkowe
+36	tereny rekreacyjno-wypoczynkowe
+37	tereny rekreacyjno-wypoczynkowe
+38	tereny rekreacyjno-wypoczynkowe
+39	tereny rekreacyjno-wypoczynkowe
+40	tereny rekreacyjno-wypoczynkowe
+41	tereny rekreacyjno-wypoczynkowe
+42	tereny rekreacyjno-wypoczynkowe
+43	tereny rekreacyjno-wypoczynkowe
+44	tereny rekreacyjno-wypoczynkowe
